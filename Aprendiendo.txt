@@ -1,6 +1,6 @@
-Acá estoy yo aprendiendo
+Acá estoy yo aprendiendo.
 
-Git y GitHub porque quiero mejorar mis conocimientos.
+En este momento solo Git y GitHub porque quiero mejorar mis conocimientos.
 Pero en un futuro me gustaría volverme un experto en Python.
 
 Y mejorar mi futuro laboral
