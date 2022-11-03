@@ -1,5 +1,6 @@
 Acá estoy yo aprendiendo
 
-git y github porque quiero mejorar mis conocimientos
+Git y GitHub porque quiero mejorar mis conocimientos.
+Pero en un futuro me gustaría volverme un experto en Python.
 
 Y mejorar mi futuro laboral
