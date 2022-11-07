@@ -1,10 +1,7 @@
-Acá estoy yo aprendiendo.
+Acá estoy yo aprendiendo
 
-En este momento solo Git y GitHub porque quiero mejorar mis conocimientos.
-Pero en un futuro me gustaría volverme un experto en Python.
+git y github porque quiero mejorar mis conocimientos
 
-Y mejorar mis posibilidades para encontrar la tan anhelada:
-
-ESTABILIDAD LABORAL
-
-Apesar de que estoy a punto de graduarme de Ingeniería Civil, conocer este ambiente laboral me ha generado dudas.
+Sin embargo debe quedar claro que este va a ser el texto para:
+La Historia de un Grande
+La Historia del DIM
