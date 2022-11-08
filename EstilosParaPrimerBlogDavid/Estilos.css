@@ -1,6 +1,6 @@
 body
 {
-    color: rgb(4, 0, 255);
+    color: rgb(38, 38, 43);
     text-align: center;
     font-family: 'Franklin Gothic Medium';
     
@@ -16,10 +16,6 @@ body
     margin-top: 50px;
 }
 #container h1
-{
-    font-size: 25px;
-}
-#container h2
 {
     font-size: 25px;
 }
