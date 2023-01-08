@@ -45,14 +45,17 @@ body
 
 #container
 {
+    background-color: rgb(230, 216, 216);
     width: 100%;
     padding: 1cm;
-    border: 1px solid red;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 10px;
     margin-top: 0px;
 }
 #container h1
 {
+    font-family: fantasy;
+    color: rgb(145, 1, 1);
     font-size: 25px;
     margin-top: 4%;
     padding-bottom: 20px;
@@ -60,6 +63,8 @@ body
 
 #container p
 {
+    font-family: sans-serif;
+    font-weight: 700;
     text-align: center;
     text-decoration: double;
     padding-top: 5px;
