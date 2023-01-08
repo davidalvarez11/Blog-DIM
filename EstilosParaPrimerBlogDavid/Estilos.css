@@ -9,13 +9,17 @@ body
     color: rgb(39, 26, 26);
     text-align: center;
     font-family: 'Franklin Gothic Medium';
-    margin: 10 10 10 10;
+    margin: 5% 25% 5% 25%;
 
 }
 
 #cabecera
 {
-    background: red;
+    background: url(https://www.elcolombiano.com/documents/10157/0/640x280/0c0/0d0/none/11101/XFLH/hinchas-medellin-atanasio-girardot-640x280-12102014-cortesia.jpg);
+        background-position: 0% 80%;
+        
+
+
     font-weight: bold;
     box-shadow: 0px 7px 30px 5px rgba(0, 0, 0, 2);
     color: white;
@@ -39,7 +43,7 @@ body
     margin: auto;
     padding-top: 5px;
     text-align: center;
-    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 10))
+    filter: drop-shadow(0 2px 10px rgba(0, 0, 0, 10))
 
 }
 
