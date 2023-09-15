@@ -7,4 +7,4 @@ Si es que de pura casualidad llegas a este repositorio de este inaportante blog,
 
 Por otro lado, soy [**David Alvarez**](https://www.linkedin.com/in/david-alvarez-villada-7b6a1123a/), ING. Civil egresado de la [**Facultad de Minas**](https://minas.medellin.unal.edu.co/) de la Universidad Nacional de Colombia.
 
-Sin embargo estoy estudiando Ciencia de Datos, porque me interesa conocer del mundo donde saber que hacer con los datos vale oro.
+Sin embargo estoy estudiando Ciencia de Datos, porque se que estamos en un mundo donde los datos valen oro.
